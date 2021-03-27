@@ -65,7 +65,7 @@ export default SideBar;
 const SideBarContainer = styled.div`
   background: var(--chat-color);
   color: var(--white-color);
-  flex: 0.15;
+  flex: 0.2;
 `;
 
 
